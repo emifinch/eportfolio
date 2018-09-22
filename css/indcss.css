@@ -4,7 +4,7 @@ body{
     font-size: 15px;
 }
 nav {
-    background-color: #333;
+    background-color: rgb(107, 97, 97);
     margin: 0;
     overflow: hidden;
 }
@@ -20,8 +20,8 @@ nav ul li {
 
 /* Create a style for the first level items */
 nav > ul > li > a {
-    color: #aaa;
-    background-color:#FF0;
+    color: rgb(71, 24, 24);
+    background-color:rgb(138, 56, 53);
     display: block;
     line-height: 2em;
     padding: 0.5em 0.5em;
